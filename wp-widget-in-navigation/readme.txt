@@ -1,9 +1,9 @@
 === WP Widget in Navigation ===
-Contributors: yudiz, Amitsinh1007, vaibhavgvb
+Contributors: yudiz, vaibhavgvb
 Donate link: https://www.yudiz.com/
 Tags: navigation, menu, widget, widgets, nav
 Requires at least: 5.4
-Tested up to: 6.5.3
+Tested up to: 6.8
 Stable tag: 3.1
 License: GPL-3.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html

@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Widget in Navigation
-Plugin URI: 
+Plugin URI: https://www.yudiz.com/wordpress-plugin-support/?plugin=WP%20Widget%20in%20Navigation
 description: Add widgets to WordPress nav menu! and easy to show wordpress widget in menu.
 Version: 3.1
 Author: Yudiz Solutions Ltd.
