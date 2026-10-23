@@ -1,5 +1,5 @@
 === WP Widget in Navigation ===
-Contributors: yudiz, vaibhavgvb
+Contributors: yudiz, vaibhavgvb, sandeepghosh29mar
 Donate link: https://www.yudiz.com/
 Tags: navigation, menu, widget, widgets, nav
 Requires at least: 5.4
